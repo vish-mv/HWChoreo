@@ -1,0 +1,5 @@
+endpoints:
+  - url: /hello
+    methods:
+      - GET
+    handler: app.hello
